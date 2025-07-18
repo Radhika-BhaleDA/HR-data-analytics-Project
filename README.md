@@ -27,5 +27,5 @@ Attrition status, Education level, Marital Status
 📈 KPI Cards showing total employees, attrition rate, average income, and more
 🧩 Fully interactive filters and slicers for granular exploration
 
-6. Screenshots / Demos
-7. Show what the dashboard looks like[dashboard preview](https://github.com/Radhika-BhaleDA/HR-data-analytics-Project/blob/main/HR_Insights_Dashboard.png)
+ Screenshots / Demos
+ Show what the dashboard looks like[dashboard preview](https://github.com/Radhika-BhaleDA/HR-data-analytics-Project/blob/main/HR_Insights_Dashboard.png)
