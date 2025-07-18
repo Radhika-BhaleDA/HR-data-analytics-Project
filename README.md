@@ -28,4 +28,4 @@ Attrition status, Education level, Marital Status
 🧩 Fully interactive filters and slicers for granular exploration
 
 6. Screenshots / Demos
-7. Show what the dashboard looks like[dashboard preview]()
+7. Show what the dashboard looks like[dashboard preview](https://github.com/Radhika-BhaleDA/HR-data-analytics-Project/blob/main/HR_Insights_Dashboard.png)
